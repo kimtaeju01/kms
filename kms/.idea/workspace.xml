@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="baac7d6c-e6d5-4e62-8a8d-dcfcde592ab8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/example/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ex2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/ex4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pr.aes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pr.eas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/pr1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/prenc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/prenc2" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1hIjjZzllhgZ2CNSx0cYlRfhLla" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="12.18.3" />
+    <property name="javascript.nodejs.core.library.typings.version" value="12.12.56" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/example/.env/.aws" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\win10\Desktop\kms\example\.env\.aws" />
+      <recent name="C:\Users\win10\Desktop\kms\example" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\win10\Desktop\kms\example" />
+      <recent name="C:\Users\win10\Desktop\kms" />
+      <recent name="C:\Users\win10\Desktop\kms\example1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.ex4.js">
+    <configuration name="ex1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/ex1.js" working-dir="$PROJECT_DIR$/example">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex2.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/ex2.js" working-dir="$PROJECT_DIR$/example">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/ex3.js" working-dir="$PROJECT_DIR$/example">
+      <method v="2" />
+    </configuration>
+    <configuration name="ex4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/example/ex4.js" working-dir="$PROJECT_DIR$/example">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.ex4.js" />
+        <item itemvalue="Node.js.ex3.js" />
+        <item itemvalue="Node.js.ex2.js" />
+        <item itemvalue="Node.js.ex1.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baac7d6c-e6d5-4e62-8a8d-dcfcde592ab8" name="Default Changelist" comment="" />
+      <created>1599705636149</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599705636149</updated>
+      <workItem from="1599705637213" duration="13383000" />
+      <workItem from="1599723501826" duration="2359000" />
+      <workItem from="1599730696516" duration="1721000" />
+      <workItem from="1599788329643" duration="434000" />
+      <workItem from="1599788811043" duration="3971000" />
+      <workItem from="1599796129497" duration="6223000" />
+      <workItem from="1599805929134" duration="10898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1190" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599813721568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1190" y="320" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1599813721568" />
+    <state width="1899" height="206" key="GridCell.Tab.0.bottom" timestamp="1599817495741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599710272284" />
+    <state width="1899" height="206" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1599817495741" />
+    <state width="1899" height="206" key="GridCell.Tab.0.center" timestamp="1599817495741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599710272283" />
+    <state width="1899" height="206" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1599817495741" />
+    <state width="1899" height="206" key="GridCell.Tab.0.left" timestamp="1599817495741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599710272283" />
+    <state width="1899" height="206" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1599817495741" />
+    <state width="1899" height="206" key="GridCell.Tab.0.right" timestamp="1599817495741">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599710272284" />
+    <state width="1899" height="206" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1599817495741" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1599721903565">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1599721903565" />
+  </component>
+</project>

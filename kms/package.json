@@ -1,0 +1,21 @@
+{
+  "name": "kms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@aws-crypto/client-node": "^1.0.5",
+    "@chilkat/ck-node12-win64": "^9.50.83",
+    "@chilkat/ck-node14-win64": "^9.50.83",
+    "aws-sdk": "^2.749.0",
+    "binary-file": "^0.2.3",
+    "crypto": "^1.0.1",
+    "dotenv": "^8.2.0"
+  }
+}
